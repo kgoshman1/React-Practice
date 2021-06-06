@@ -1,0 +1,16 @@
+input {
+  background-color: rgba(247, 246, 246, 0.938);
+}
+
+.form_button {
+  margin-top: 2px;
+  width: 11em;
+  background-color: rgb(85, 162, 224);
+  color: white;
+}
+
+.formdiv {
+  height: 50px;
+  width: 50px;
+  color: red;
+}
